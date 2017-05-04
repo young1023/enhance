@@ -1,0 +1,30 @@
+BODY {
+	FONT-SIZE: Arial,11pt; LINE-HEIGHT: 12pt
+}
+TABLE {
+	FONT-SIZE: Arial,11pt; LINE-HEIGHT: 12pt
+}
+SELECT {
+	FONT-SIZE: Arial,111pt; LINE-HEIGHT: 12pt
+}
+A:link {
+	COLOR: black;TEXT-DECORATION: underline
+}
+A:visited {
+	COLOR: black;TEXT-DECORATION: underline
+}
+A:active {
+	color:black; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}
+TD {
+	FONT-SIZE: Arial,111pt; LINE-HEIGHT: 1.2
+}
+P {
+	FONT-SIZE: Arial,111pt; LINE-HEIGHT: 1.2
+}
+.rec_form {
+	BORDER-BOTTOM: #0099CC 1px dashed; BORDER-LEFT: #0099CC 1px dashed; BORDER-RIGHT: #0099CC 1px dashed; BORDER-TOP: #0099CC 1px dashed; FONT-SIZE: 10pt; align: absmiddle
+}

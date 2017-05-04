@@ -1,0 +1,128 @@
+BODY {
+FONT-SIZE: 10pt; 
+COLOR: #FF0000; 
+FONT-FAMILY: Arial, Helvetica, Sans-Serif; 
+BACKGROUND-COLOR: #ffffff;
+}
+
+TD {
+FONT-SIZE: 12px; 
+FONT-FAMILY: Arial, Helvetica, Sans-Serif
+Align: Center
+}
+
+TD.content {
+	FONT-SIZE: 10px; FONT-FAMILY: Arial, Helvetica, Sans-Serif
+}
+TD.rn {
+	FONT-SIZE: 10px; FONT-FAMILY: Arial, Helvetica, Sans-Serif
+}
+P.small {
+	FONT-SIZE: 10px; FONT-FAMILY: Arial, Helvetica, Sans-Serif
+}
+Input {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Sans-Serif
+}
+
+Table.black {
+FONT-SIZE: 10pt; 
+COLOR: #000000; 
+FONT-FAMILY: Arial, Helvetica, Sans-Serif;
+}
+
+text {
+	FONT-FAMILY: Courier, monospace
+}
+.text {
+	FONT-FAMILY: Courier, monospace
+}
+A:link {
+	FONT-SIZE: 12px; COLOR: #FF0000 ;TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 12px; COLOR: #FF0000 ;TEXT-DECORATION: none
+}
+.black {
+	FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: Arial, Helvetica, Sans-Serif; TEXT-DECORATION: none
+}
+.normal {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Sans-Serif
+}
+LI.red {
+	FONT-SIZE: 12px; COLOR: #cc3333; FONT-FAMILY: Arial, Helvetica, Sans-Serif
+}
+.brown {
+	FONT-SIZE: 12px; COLOR: #4f2403; FONT-FAMILY: Arial, Helvetica, Sans-Serif
+}
+.small {
+	FONT-SIZE: 11px; FONT-FAMILY: Arial, Helvetica, Sans-Serif
+}
+.formitem {
+	FONT-SIZE: 11px; FONT-FAMILY: Arial, Helvetica, Sans-Serif
+}
+.error {
+	FONT-SIZE: 10px; COLOR: #ff0000; FONT-FAMILY: Arial, Helvetica, Sans-Serif
+}
+.large {
+	FONT-SIZE: 18px; FONT-FAMILY: Arial, Helvetica, Sans-Serif
+}
+.white {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, Sans-Serif
+}
+.red {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #e41f1f; FONT-FAMILY: Arial, Helvetica, Sans-Serif
+}
+.gNetMenuText {
+	COLOR: #e41f1f; LINE-HEIGHT: 10px; TEXT-DECORATION: none
+}
+.gNetMenuLastText {
+	COLOR: #4f2403; LINE-HEIGHT: 10px; TEXT-DECORATION: none
+}
+.gIEMenuItemStyle {
+	FONT-SIZE: 7pt; CURSOR: hand; COLOR: #e41f1f; LINE-HEIGHT: 12pt; FONT-FAMILY: Verdana; BACKGROUND-COLOR: transparent
+}
+.gIEMenuLastItemStyle {
+	FONT-SIZE: 7pt; CURSOR: hand; COLOR: #4f2403; LINE-HEIGHT: 12pt; FONT-FAMILY: Verdana; BACKGROUND-COLOR: transparent
+}
+.gIEMenuItemStyleMac {
+	FONT-SIZE: 7pt; CURSOR: hand; COLOR: #e41f1f; LINE-HEIGHT: 12pt; FONT-FAMILY: Verdana, Arial; BACKGROUND-COLOR: transparent
+}
+.gIEMenuLastItemStyleMac {
+	FONT-SIZE: 7pt; CURSOR: hand; COLOR: #4f2403; LINE-HEIGHT: 12pt; FONT-FAMILY: Verdana, Arial; BACKGROUND-COLOR: transparent
+}
+.gAOLMenuItemStyle {
+	FONT-SIZE: 7pt; CURSOR: hand; COLOR: #e41f1f; LINE-HEIGHT: 12pt; FONT-FAMILY: Verdana; BACKGROUND-COLOR: transparent
+}
+.gAOLMenuItemStyleMac {
+	FONT-SIZE: 9pt; CURSOR: hand; COLOR: #e41f1f; LINE-HEIGHT: 12pt; FONT-FAMILY: Verdana, Arial; BACKGROUND-COLOR: transparent
+}
+.gAOLMenuLastItemStyle {
+	FONT-SIZE: 8pt; CURSOR: hand; COLOR: #4f2403; LINE-HEIGHT: 12pt; FONT-FAMILY: Verdana; BACKGROUND-COLOR: transparent
+}
+.gAOLMenuLastItemStyleMac {
+	FONT-SIZE: 8pt; CURSOR: hand; COLOR: #4f2403; LINE-HEIGHT: 12pt; FONT-FAMILY: Verdana, Arial; BACKGROUND-COLOR: transparent
+}
+.gNetMenuItemStyle {
+	FONT-SIZE: 8pt; FLOAT: left; MARGIN-LEFT: 8px; MARGIN-RIGHT: 8px; FONT-FAMILY: Verdana, Helvetica, Sans-Serif; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.gNetMenuLastItemStyle {
+	FONT-SIZE: 8pt; FLOAT: left; MARGIN-LEFT: 8px; MARGIN-RIGHT: 8px; FONT-FAMILY: Verdana, Helvetica, Sans-Serif; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.gNetMenuItemStyleMac {
+	FONT-SIZE: 10pt; FLOAT: left; MARGIN-LEFT: 4px; LINE-HEIGHT: 8px; MARGIN-RIGHT: 4px; FONT-FAMILY: Verdana, Helvetica, Sans-Serif; TEXT-ALIGN: left
+}
+.validFormEntry {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #0033cc; FONT-FAMILY: Arial, Helvetica, Sans-Serif
+}
+.invalidFormEntry {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #cc0000; FONT-FAMILY: Arial, Helvetica, Sans-Serif
+}
+.inputCaption {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #999999; FONT-FAMILY: Arial,Helvetica,Sans-serif
+}
+.copyDetail {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial,Helvetica,Sans-serif
+}
+.gift {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial,Helvetica,Sans-serif
+}

